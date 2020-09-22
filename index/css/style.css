@@ -1,0 +1,149 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.first{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 13.5rem; 
+}
+.first h1{
+    font-size: 88px;
+   color: #212529;
+   user-select: none;
+}
+.first h3{
+    font-size: 28px;
+    color: #212529;
+    margin-bottom: 50px;
+}
+.first a{
+    color: #fff;
+    background-color: #1d809f;
+    padding: 20px 40px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.second{
+    text-align:center;
+    padding: 6rem;
+}
+.second h2{
+    font-size: 2rem;
+    color: #212529;
+}
+.second p{
+    color: #212529;
+    font-size: 20px;
+    margin-bottom: 50px;
+  
+}
+.second a{
+    color: #fff;
+    background-color: #212529;
+    padding: 20px 40px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+ 
+}
+.third{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 12rem 0;
+    text-align: center;
+}
+.third h2{
+    font-size: 56px;
+    color: #212529;
+    margin-bottom: 50px;
+}
+.third a{
+    color: #fff;
+    padding: 20px 40px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: #1d809f;
+
+}
+.fourth{
+    background-color: #1d809f;
+    text-align: center;
+    padding: 6rem 0;
+    margin-top: 5rem;
+}
+.fourth h2{
+color: #fff;
+font-size: 2rem;
+margin-bottom: 50px;
+
+}
+.fourth .bir{
+    color: #212529;
+    padding: 20px 40px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-right: 15px;
+}
+.fourth .iki{
+    color: #fff;
+    padding: 20px 40px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: #212529;
+}
+.last{
+    background-color: #1d809f;
+    padding: 5rem;
+    overflow: hidden;
+}
+.last .last-text{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.last-text h3{
+    font-size: 16px;
+    color: #ecb807;
+}
+.last-text{
+    color: #fff;
+    font-size: 48px;
+}
+.all .box{
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+.all .box h2{
+    color: #fff;
+    font-weight: bold;
+    font-size: 24px;
+}
+.all .box p{
+    font-size: 16px;
+    color: #ffffffb3;
+}
+.son p{
+    color: #6c757d;
+    font-size: 12.8px;
+    text-align: center;
+    margin: 5rem 0;
+}
